@@ -1,0 +1,4 @@
+customerID,tenure,Contract,PaymentMethod,MonthlyCharges,TotalCharges,Churn,InternetService,SignupDate
+0001-AAAAA,3,Month-to-month,Electronic check,79.85,239.55,Yes,Fiber optic,2025-09-15
+0002-BBBBB,28,One year,Mailed check,54.2,1517.6,No,DSL,2023-08-30
+0003-CCCCC,60,Two year,Credit card (automatic),99.1,5946.0,No,Fiber optic,2020-12-31
